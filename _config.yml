@@ -1,0 +1,15 @@
+exclude: [README.md, labs/README.md]
+title: HCF
+email: 
+description: 
+url: "https://cl-illc.github.io" # the base hostname & protocol for your site
+baseurl: "/hcf" # the subpath of your site, e.g. /blog/
+github_username:  cl-illc
+#paginate: 3
+
+# useful links
+illc_url: http://www.illc.uva.nl
+uva_url: http://www.uva.nl/en/home
+
+# Build settings
+markdown: kramdown
